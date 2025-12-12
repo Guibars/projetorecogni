@@ -1,0 +1,7 @@
+{
+  "name": "Fotus Interactive",
+  "description": "Portfólio interativo controlado por gestos da Fotus Distribuidora Solar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
